@@ -1,3 +1,3 @@
 [submodule "backend_repo"]
 	path = backend_repo
-	url = ./backend_repo/
+	url = https://github.com/ln-12/buf_breaking_test2
